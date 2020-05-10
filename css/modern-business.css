@@ -5,6 +5,7 @@
  */
 body {
   padding-top: 56px;
+  background-color: #F0F8FF;
 }
 
 .carousel-item {
@@ -17,6 +18,13 @@ body {
   background-size: cover;
 }
 
+.nav-custom {
+ background-color: #FFD700;
+}
+
+.dropdown-item {
+ background-color: #FFFFE0;
+}
 .portfolio-item {
   margin-bottom: 30px;
 }
